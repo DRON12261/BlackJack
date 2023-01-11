@@ -11,6 +11,9 @@
 
 Спасибо за то, что обратили внимание на проект. Приятной игры.
 
+## Видео с геймплеем
+[![Геймплей](https://img.youtube.com/vi/zuCAKPP1kVw/0.jpg)](https://youtu.be/zuCAKPP1kVw)
+
 ## Скриншоты
 ![Скрин1](https://i.ibb.co/pdh2dNm/image.png) 
 ![Скрин2](https://i.ibb.co/PwFH1Kk/4.png)
